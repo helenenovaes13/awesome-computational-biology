@@ -2,3 +2,4 @@
 
 Notes and usage details for awesome-computational-biology.
 - add a note about the defaults
+- add a note about the defaults
