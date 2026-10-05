@@ -29,3 +29,4 @@ Notes and usage details for awesome-computational-biology.
 - add a note about the defaults
 - link the usage section
 - clarify the setup steps
+- clarify the setup steps
